@@ -4,7 +4,6 @@
 
 ![Violet Demo](demo/demo.gif)
 
-[LINK_SHADER_1](https://codesandbox.io/s/shader1-en10h){:target="_blank"}
+<a href="https://codesandbox.io/s/shader1-en10h" target="_blank">LINK_SHADER_1_CODESANDBOX</a>
 
-
-[LINK SHADER_2](https://codesandbox.io/s/shaders2-dt8xr){:target="_blank"}
+<a href="https://codesandbox.io/s/shaders2-dt8xr" target="_blank">LINK_SHADER_2_CODESANDBOX</a>
